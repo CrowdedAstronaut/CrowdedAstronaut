@@ -9,10 +9,17 @@
 - 🔭 I’m currently developing a mobile app with React Native.
 - 🌱 I’m currently learning Firebase.
 - 👯 I’m looking to collaborate with anyone on any project.
+- - 😄 Pronouns: he/him
+- ⚡ Fun fact: In another life, I used to be a dj and a scuba instructor.
 - 💬 Ask me about anything
-- ⚡ Fun fact: I used to be a scuba instructor.
+
 
 ## :email: Find me on:
+[website]: https://johnrossphillips.com
+[linkedin]: https://www.linkedin.com/in/johnrossphillips/
+[mail]: mailto:ross@johnrossphillips.com
+
+
 
 <!--
 [<img align="left" alt="CrowdedAstronaut" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -67,18 +74,3 @@
 
 
 
-[website]: https://johnrossphillips.com
-[linkedin]: https://www.linkedin.com/in/johnrossphillips/
-[mail]: mailto:ross@johnrossphillips.com
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
