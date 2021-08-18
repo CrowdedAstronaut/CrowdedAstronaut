@@ -27,6 +27,7 @@
 [<img align="left" alt="CrowdedAstronaut | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
 -->
 
+<!--
 <p align="center">
  <a href="https://crowdedAstronaut.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.linkedin.com/in/johnrossphillips/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
@@ -35,7 +36,7 @@
 </p>
 
 <br />
-
+-->
 
 ## 🧰 Languages and Tools:
 <p align="center">
@@ -62,7 +63,7 @@
 <!--
 ![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=CrowdedAstronaut&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CrowdedAstronaut&hide=php&theme=tokyonight)
--->
+
 <div>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=CrowdedAstronaut&count_private=true&show_icons=true&theme=tokyonight">
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=CrowdedAstronaut&count_private=true&show_icons=true&theme=tokyonight" />
@@ -71,6 +72,6 @@
   <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CrowdedAstronaut&hide=php&theme=tokyonight" />
 </a>
 </div>
-
+-->
 
 
