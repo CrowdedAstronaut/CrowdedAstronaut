@@ -9,7 +9,7 @@
 - 🔭 I’m currently developing a mobile app with React Native.
 - 🌱 I’m currently learning Firebase.
 - 👯 I’m looking to collaborate with anyone on any project.
-- - 😄 Pronouns: he/him
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: In another life, I used to be a dj and a scuba instructor.
 - 💬 Ask me about anything
 
