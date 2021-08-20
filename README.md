@@ -31,6 +31,6 @@
 
 ## :trophy: My Github Stats:
 
-![CrowdedAstronaut's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrowdedAstronaut&theme=dark&show_icons=true)
+![CrowdedAstronaut's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrowdedAstronaut&theme=react&show_icons=true)
 
 
