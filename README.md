@@ -13,10 +13,10 @@
 
 ## Connect with me:
 
-<p align="left">
-  <a href="https://johnrossphillips.com" target="blank"><img align="left" src="./icons/portfolio.png" alt="johnrossphillips.com" height="30" width="40" />Portfolio</a>
-<a href="https://www.linkedin.com/in/johnrossphillips" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnrossphillips" height="30" width="40" />LinkedIn</a>
-<a href="https://instagram.com/johnrossphillips" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="johnrossphillips" height="30" width="40" />Instagram</a>
+<p align="center">
+  <a href="https://johnrossphillips.com" target="blank"><img align="center" src="./icons/portfolio.png" alt="johnrossphillips.com" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/johnrossphillips" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnrossphillips" height="30" width="40" /></a>
+<a href="https://instagram.com/johnrossphillips" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="johnrossphillips" height="30" width="40" /></a>
 </p>
 
 ## 🧰 Languages and Tools:
