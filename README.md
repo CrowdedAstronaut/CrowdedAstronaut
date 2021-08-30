@@ -7,7 +7,7 @@
 ## 🎓 I'm an full stack developer living and working in Austin, TX.
 
 - 🔭 I’m currently developing a mobile app with React Native.
-- 🌱 I’m currently learning Firebase.
+- 🌱 I’m currently learning Azure.
 - 👯 I thrive in team environments.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: In another life, I used to be a dj🎧 and a scuba instructor🤿.
