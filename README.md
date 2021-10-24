@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Azure.
 - 👯 I thrive in team environments.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: In another life, I used to be a dj🎧 and a scuba instructor🤿.
+- ⚡ Fun fact: In another life, I used to be a dj-🎧 and a scuba instructor-🤿.
 - 💬 Ask me about anything
 
 ## Connect with me:
