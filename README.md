@@ -34,4 +34,4 @@
 ![CrowdedAstronaut's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrowdedAstronaut&theme=vision-friendly-dark&show_icons=true)
 
 ## Daily.dev
-<p align="right"><a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/CrowdedAstronaut/CrowdedAstronaut/blob/main/devcard.svg" width="400" alt="Ross Phillips' Dev Card"/></a></p>
+<p align="left"><a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/CrowdedAstronaut/CrowdedAstronaut/blob/main/devcard.svg" width="400" alt="Ross Phillips' Dev Card"/></a></p>
