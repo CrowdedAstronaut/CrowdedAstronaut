@@ -30,8 +30,7 @@
 <br />
 
 ## :trophy: My Github Stats:
-
+<p align="left">
 ![CrowdedAstronaut's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrowdedAstronaut&theme=vision-friendly-dark&show_icons=true)
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/CrowdedAstronaut/CrowdedAstronaut/blob/main/devcard.svg" width="300" alt="Ross Phillips' Dev Card"/></a></p>
 
-## Daily.dev
-<p align="center"><a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/CrowdedAstronaut/CrowdedAstronaut/blob/main/devcard.svg" width="200" alt="Ross Phillips' Dev Card"/></a></p>
