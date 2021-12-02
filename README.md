@@ -31,6 +31,8 @@
 
 ## :trophy: My Github Stats:
 ![CrowdedAstronaut's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrowdedAstronaut&theme=vision-friendly-dark&show_icons=true)
-<p align="right">
+
+## 📚 Dev Card
+<p align="left">
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/CrowdedAstronaut/CrowdedAstronaut/blob/main/devcard.svg" width="300" alt="Ross Phillips' Dev Card"/></a></p>
 
