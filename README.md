@@ -2,7 +2,6 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=CrowdedAstronaut.CrowdedAstronaut) [![Github](https://img.shields.io/github/followers/CrowdedAstronaut?label=Followers&logo=Github)](https://github.com/CrowdedAstronaut)
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/CrowdedAstronaut/CrowdedAstronaut/blob/main/devcard.svg" width="400" alt="Ross Phillips' Dev Card"/></a>
 
 ## 🎓 I'm an full stack developer living and working in Austin, TX.
 
@@ -21,6 +20,8 @@
 <a href="https://www.linkedin.com/in/johnrossphillips" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnrossphillips" height="30" width="40" /></a>
 <a href="https://instagram.com/johnrossphillips" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="johnrossphillips" height="30" width="40" /></a>
 </p>
+
+<p align="center"><a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/CrowdedAstronaut/CrowdedAstronaut/blob/main/devcard.svg" width="400" alt="Ross Phillips' Dev Card"/></a></p>
 
 ## 🧰 Languages and Tools:
 
