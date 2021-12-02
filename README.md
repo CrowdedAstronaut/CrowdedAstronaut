@@ -21,7 +21,7 @@
 <a href="https://instagram.com/johnrossphillips" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="johnrossphillips" height="30" width="40" /></a>
 </p>
 
-<p align="center"><a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/CrowdedAstronaut/CrowdedAstronaut/blob/main/devcard.svg" width="400" alt="Ross Phillips' Dev Card"/></a></p>
+
 
 ## 🧰 Languages and Tools:
 
@@ -32,3 +32,6 @@
 ## :trophy: My Github Stats:
 
 ![CrowdedAstronaut's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrowdedAstronaut&theme=vision-friendly-dark&show_icons=true)
+
+## Daily.dev
+<p align="right"><a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/CrowdedAstronaut/CrowdedAstronaut/blob/main/devcard.svg" width="400" alt="Ross Phillips' Dev Card"/></a></p>
