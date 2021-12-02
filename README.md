@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm [CrowdedAstronaut][www.johnrossphillips.com] but you can call me Ross 😀
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=CrowdedAstronaut.CrowdedAstronaut) [![Github](https://img.shields.io/github/followers/CrowdedAstronaut?label=Followers&logo=Github)](https://github.com/CrowdedAstronaut)
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/CrowdedAstronaut/CrowdedAstronaut/blob/master/devcard.svg" width="400" alt="Ross Phillips' Dev Card"/></a>
 
 ## 🎓 I'm an full stack developer living and working in Austin, TX.
 
