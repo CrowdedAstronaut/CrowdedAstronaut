@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently developing a mobile app with React Native.
 - 🌱 I’m currently learning Firebase, Docker, and Kubernetes.
-- 👯 I thrive in team environments.
+- 👯 I am a community builder
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: In another life, I used to be a dj🎧 and a scuba instructor🤿.
+- ⚡ Fun fact: In another life, I used to be a dj🎧 and a scuba instructor🤿
 - 💬 Ask me about anything
 
 ## Connect with me:
