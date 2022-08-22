@@ -4,9 +4,9 @@
 
 ## 🎓 I'm an full stack developer living and working in Austin, TX.
 
-- 🔭 I’m currently developing a mobile app with React Native.
-- 🌱 I’m currently learning Firebase, Docker, and Kubernetes.
-- 👯 I am a community builder
+- 🔭 I’m currently developing a web app with ReactJS.
+- 🌱 I’m currently learning Firebase and AWS.
+- 👯 I build communities
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: In another life, I used to be a dj🎧 and a scuba instructor🤿
 - 💬 Ask me about anything
