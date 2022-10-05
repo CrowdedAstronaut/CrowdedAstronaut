@@ -26,8 +26,8 @@
 <br />
 
 ## :trophy: My Github Stats:
+![CrowdedAstronaut's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrowdedAstronaut&count_private=true&theme=vision-friendly-dark&show_icons=true)
 
-![CrowdedAstronaut's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrowdedAstronaut&theme=vision-friendly-dark&show_icons=true)
 
 <!-- ## 📚 Dev Card:
 <p align="left">
